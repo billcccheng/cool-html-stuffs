@@ -21,7 +21,7 @@ label {
 	color:#FFF; 
 }
 
-input:checked + label {
+input[type="checkbox"]:checked + label {
     background: brown;
 }
 ```
