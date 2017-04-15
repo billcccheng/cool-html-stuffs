@@ -29,7 +29,7 @@ input[type="checkbox"]:checked + label {
 ## Center Image
 HTML
 ```
-<img src=some_url>
+<img class="center" src=some_url>
 ```
 
 CSS
