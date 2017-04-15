@@ -25,3 +25,17 @@ input[type="checkbox"]:checked + label {
     background: brown;
 }
 ```
+
+## Center Image
+HTML
+```
+<img src=some_url>
+```
+
+CSS
+```
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+```
